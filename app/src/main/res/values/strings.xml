@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Odev2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="you_can_party">You Can Party</string>
+    <string name="holiday_program">Holiday Program</string>
+    <string name="let_s_start">Let\'s Start</string>
+    <string name="you_can_swim">You Can Swim</string>
+    <string name="you_can_travel">You Can Travel</string>
+</resources>
