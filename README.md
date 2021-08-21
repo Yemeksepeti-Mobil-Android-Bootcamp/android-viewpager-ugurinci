@@ -7,6 +7,7 @@ The designs are made on the Pixel 4 phone.
 <img src="https://github.com/Yemeksepeti-Mobil-Android-Bootcamp/android-viewpager-ugurinci/blob/main/Odev2.gif" height="640">
 
 ## Lottie
+### [airbnb/lottie-android](https://github.com/airbnb/lottie-android)
 #### Gradle
 ```Gradle
 dependencies {
@@ -15,6 +16,7 @@ dependencies {
 ```
 
 ## Dots Indicator
+### [tommybuonomo/dotsindicator](https://github.com/tommybuonomo/dotsindicator)
 #### Gradle
 ```Gradle
 dependencies {
